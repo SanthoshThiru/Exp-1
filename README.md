@@ -32,12 +32,15 @@ v)Package Diagram
 vi)Sequence Diagram
 # DIAGRAMS:
 USECASE DIAGRAM
+
 ![image](https://github.com/user-attachments/assets/b87fedd4-4349-4419-a283-e6e9fff8a1ec)
 
 CLASS DIAGRAM
+
 ![image](https://github.com/user-attachments/assets/bbca17f1-b2ff-4420-a62a-a66a4990f1e8)
 
 ACTIVITY DIAGRAM
+
 ![image](https://github.com/user-attachments/assets/267cb67c-c6e0-438a-8ad9-dd057c9f21ef)
 
 COMMUNICATION DIAGRAM
