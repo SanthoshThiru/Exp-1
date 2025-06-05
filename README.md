@@ -41,12 +41,15 @@ ACTIVITY DIAGRAM
 ![image](https://github.com/user-attachments/assets/267cb67c-c6e0-438a-8ad9-dd057c9f21ef)
 
 COMMUNICATION DIAGRAM
+
 ![image](https://github.com/user-attachments/assets/a7072077-56d6-42fa-b321-03e5b43ab89e)
 
 PACKAGE DIAGRAM
+
 ![image](https://github.com/user-attachments/assets/54e333ca-714f-47a9-831f-a4cba19e3b30)
 
 SEQUENCE DIAGRAM
+
 ![image](https://github.com/user-attachments/assets/7488a745-27b1-4bc3-9bf9-6b8bd182e418)
 
 # RESULT:
